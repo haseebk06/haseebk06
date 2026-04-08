@@ -5,7 +5,7 @@ I am Front and Back End developer.
 --------------------------
 
 *   🌍  Currently based in Karachi, Pakistan
-*   🖥️  See my portfolio at <a href='[https://juniorawan06.github.io/Juniorawan06/](https://codebyhaseeb.com/)'>Portfolio</a>
+*   🖥️  See my portfolio at <a href='https://codebyhaseeb.com/'>Portfolio</a>
 *   🧠  Currently Learning TypeScript.
 *   🤝  I'm open to collaborating on interesting projects as a developer.
 
